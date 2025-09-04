@@ -1,3 +1,4 @@
 # pedriki.github.io
 pedriki.github.io
-Hola!
+Welcome to Pedriki's webpage!
+My name is well, you guessed it: Pedriki Hacker. I make Modded Minecraft content.
